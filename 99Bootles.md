@@ -1,3 +1,10 @@
+# 99 Bottles
+
+Write a program that can print the song "99 Bottles of Beer".
+
+## The Song
+
+```
 99 bottles of beer on the wall, 99 bottles of beer.
 Take one down and pass it around, 98 bottles of beer on the wall.
 98 bottles of beer on the wall, 98 bottles of beer.
@@ -198,3 +205,17 @@ Take one down and pass it around, 1 bottle of beer on the wall.
 Take one down and pass it around, no more bottles of beer on the wall.
 No more bottles of beer on the wall, no more bottles of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall.
+```
+
+## Hints
+
+* You can build a solution that doesn't use any loops or iteration
+* You don't need to write any methods or create classes
+* You don't need automated tests
+* You could choose to use a `while` loop ( [Reference](http://ruby.bastardsbook.com/chapters/loops/) )
+* You could use a `for` loop
+* You could use a Ruby `Range` with `each` ( [Reference](http://www.ruby-doc.org/core-2.1.5/Range.html#method-i-each) )
+
+## Extensions
+
+* How few lines of code (under 80 characters each) can you use?
